@@ -1,4 +1,4 @@
-# mal-formatter
+# My Anime List formatter
 
 Just put anime and manga xml to the same folder and enjoy
 
